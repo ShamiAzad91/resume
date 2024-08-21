@@ -1,0 +1,18 @@
+/* Custom styles */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.jumbotron {
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.progress-bar {
+    background-color: #007bff;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
